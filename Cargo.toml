@@ -12,3 +12,4 @@ name = "gaff_lib"
 path = "src/lib/lib.rs"
 
 [dependencies]
+clap = { version = "4.4.8", features = ["derive"] }
