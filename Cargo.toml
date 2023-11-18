@@ -1,7 +1,9 @@
 [package]
 name = "gaff"
-version = "0.1.0"
+version = "0.1.0-reserved1"
 edition = "2021"
+description = "Tool to install git hooks into a repository"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
